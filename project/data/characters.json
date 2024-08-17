@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Rachel Green",
+    "age": 24,
+    "photo": "https://static.kinoafisha.info/upload/news/349228334795.jpg",
+    "bio": "A fashion enthusiast who starts off as a waitress."
+  },
+  {
+    "name": "Chandler Bing",
+    "age": 26,
+    "photo": "https://assets.mycast.io/actor_images/actor-chandler-bing-1062350_large.jpg?1714449504",
+    "bio": "A fashion enthusiast who starts off as a waitress."
+  },
+  {
+    "name": "Monica Geller",
+    "age": 25,
+    "photo": "https://media.glamour.com/photos/6329ebe7756bfb7545c0c97f/master/w_1600%2Cc_limit/138426898",
+    "bio": "A chef who is known for her obsessive cleanliness."
+  },
+  {
+    "name": "Ross Geller",
+    "age": 26,
+    "photo": "https://www.thesun.co.uk/wp-content/uploads/2017/08/nintchdbpict000003441959.jpg",
+    "bio": "A paleontologist with a history of divorces."
+  },
+  {
+    "name": "Joey Tribbiani",
+    "age": 25,
+    "photo": "https://todofriends.com/wp-content/uploads/2021/03/Joey-833x1024.jpg",
+    "bio": "An aspiring actor who loves food."
+  },
+  {
+    "name": "Phoebe Buffay",
+    "age": 27,
+    "photo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Friendsphoebe.jpg",
+    "bio": "A quirky musician with a unique worldview."
+  }
+]
